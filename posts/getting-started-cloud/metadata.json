@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "getting-started-cloud",
+      "title": "Getting Started with Cloud Infrastructure",
+      "summary": "A beginner's guide to setting up your first cloud environment with best practices.",
+      "date": "2023-09-15",
+      "author": "Kal El",
+      "category": "Cloud",
+      "tags": ["AWS", "Azure", "Infrastructure", "DevOps"],
+      "readTime": "5 min read",
+      "slug": "getting-started-cloud",
+      "image": "cover.png"
+    }
+  ]
+}
